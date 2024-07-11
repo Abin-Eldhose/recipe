@@ -47,12 +47,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB-8hqSkkLUVTk9zNB2bI1rhsZBtyN_Dfk',
-    appId: '1:635982574806:web:7b0ad57fc44f2834adc577',
-    messagingSenderId: '635982574806',
-    projectId: 'flutterrecipiea',
-    authDomain: 'flutterrecipiea.firebaseapp.com',
-    storageBucket: 'flutterrecipiea.appspot.com',
+    apiKey: 'api key',
+    appId: 'id',
+    messagingSenderId: 'id',
+    projectId: 'id',
+    authDomain: 'domain',
+    storageBucket: '...',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
