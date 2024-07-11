@@ -7,8 +7,8 @@ abstract class RecipeRemoteDatasource {
 }
 
 class RecipeRemoteDataSourceImpl implements RecipeRemoteDatasource {
-  static const String _appId = 'e3aa995c';
-  static const String _appKey = 'ac1e2abab005593e34423ae6db044bb0';
+  static const String _appId = 'your id';
+  static const String _appKey = 'your api key';
   static const String _baseUrl = 'https://api.edamam.com/search';
 
   final http.Client client = http.Client();
