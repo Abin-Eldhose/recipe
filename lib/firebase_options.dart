@@ -56,19 +56,19 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDehFSY_MdObuiBMZ97tJ2k3iE-nJClr2E',
-    appId: '1:635982574806:android:be475a8daec5492eadc577',
-    messagingSenderId: '635982574806',
-    projectId: 'flutterrecipiea',
-    storageBucket: 'flutterrecipiea.appspot.com',
+    apiKey: 'your api KEY',
+    appId: 'your api id',
+    messagingSenderId: 'your id',
+    projectId: 'project id',
+    storageBucket: '...',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDJwXuLFbUbTqTdLZ6oLcvAY9Ju7JvlpMI',
-    appId: '1:635982574806:ios:aaf34df214e25e73adc577',
+    apiKey: 'your api KEY',
+    appId: 'your api id',
     messagingSenderId: '635982574806',
-    projectId: 'flutterrecipiea',
-    storageBucket: 'flutterrecipiea.appspot.com',
-    iosBundleId: 'com.example.recipieApp',
+    projectId: 'your id',
+    storageBucket: '...',
+    iosBundleId: 'id',
   );
 }
